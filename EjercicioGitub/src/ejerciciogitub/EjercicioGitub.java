@@ -26,6 +26,7 @@ public class EjercicioGitub {
         
         do{
             System.out.println("Introduzca un numero para mostrar la piramide correspondiente.");
+            System.out.println("Cambio adicional para GitHub");
             num = lector.nextInt();
         }while(num<1);
         
